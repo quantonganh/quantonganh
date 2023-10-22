@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software engineer with 6 years of experience in back end, specializing in Golang and PostgreSQL. Proficient in DevOps practices, ensuring efficient deployment and scalability using Docker and Kubernetes.
+
 <!--
 **quantonganh/quantonganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving my web development skills by building a [portfolio website](https://quantonganh.com/) to showcase my projects
+- 🌱 I’m currently learning Computer Science: [SICP](https://github.com/quantonganh/sicp-exercises), [CS:APP](https://github.com/quantonganh/csapp-problems), [OSTEP](https://github.com/quantonganh/ostep-homework).
+- 👯 I’m looking to collaborate on open source projects: [Go](https://go-review.googlesource.com/q/owner:quantonganh@gmail.com), [WezTerm](https://github.com/wez/wezterm/pulls/quantonganh), [Helix](https://github.com/helix-editor/helix/pulls/quantonganh), ...
+- 💬 Ask me about my experience in Linux, DevOps, back end development, and more.
+- 📫 How to reach me: Feel free to send me an email at quantonganh@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/quantonganh/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a collector of stories and passport stamps, having travelled to more than 10 countries. I also have a passion for nature and street photography.
